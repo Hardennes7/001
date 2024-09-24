@@ -1,0 +1,69 @@
+Part 1: Introduction to Software Engineering
+
+
+Explain what software engineering is and discuss its importance in the technology industry.
+ SOFTWARE ENGINEERING the process of designing, creating, testing, and maintaining computer programs and applications.
+ITS IMPORTANCE : automation of repetitive tasks -one is enable to  automate  repetitive and time-consuming tasks. This reduces human error, increases efficiency, and saves businesses both time and money. In the real world, this is evident in manufacturing processes, data entry, and even in household appliances that simplify our daily routines. 
+Use: Computer programs handle a lot of information and help make sense of it.
+
+
+Significance: This helps scientists, businesses, and doctors learn new things and make better choices.
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+cloud computing the Cloud platforms offer scalable and accessible resources for software development.
+internet age :The birth of the World Wide Web transformed software into a global, interconnected entity.
+ rise of Mobile Devices: The rise of smartphones and tablets led to a new era of software development.
+
+List and briefly explain the phases of the Software Development Life Cycle.
+planning
+designing
+development
+planning this involves defining the project scope ,setting the objectives and goals
+designing this involves coming up with the best architecture for the software
+development  here fundamental development of the product starts.
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
+They are both easy 
+they both have a simple structure 
+contrast 
+the waterfall method does not allow a phased to be change once it is completed  unlike the agile that allows changes on  a completed phase
+
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+software developer
+create programs that help people to operate in day-to-day life
+ design and write code that is used to build everything from operating systems
+surpvise various softwares
+Quality Assurance Engineer
+review the final  software product 
+give quality requirement on the  software product under task
+ Project Manager
+acts between software developer and the management
+over looks the project
+
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+IDE is  a software application that helps programmers develop software code efficiently.a example is the Visual studio
+VCS  tracks changes to a file .example GIT
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+1. Software Industry is Continuously Developing -Plan learning days in your schedule.
+2. Coordinating with Multiple Teams-build projects around self-motivated individuals
+3. Managing Security threats-keep themselves updated with the latest security checks
+4. Continuously Changing Demands-software developers need to learn and adapt constantly.
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+unit for single code, integration for modules, system for overall functions, and acceptance for user feedback.
+ Importance :verifies that all components of a system interact with each other correctly
+
+
+Part 2: Introduction to AI and Prompt Engineering
+
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+ prompt engineering is all about crafting your questions or instructions in a way that helps get the best responses from your robot or AI assistant.  
+it enables one to get immediate respond based on the desire.d results
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+" Tell me about yourself." - vague
+" tell me about your education background."
